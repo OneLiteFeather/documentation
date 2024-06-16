@@ -149,8 +149,7 @@ your selection.
 ## Analyzing a clipboard
 
 <figure>
-<img src="https://i.imgur.com/JffswW6.png"
-alt="size-d_chatoutput_selection.png" />
+<img src="https://i.imgur.com/JffswW6.png" alt="size-d_chatoutput_selection.png" />
 </figure>
 
 1.  clipboard-list number
@@ -164,8 +163,7 @@ alt="size-d_chatoutput_selection.png" />
 ## Analyzing a schematic
 
 <figure>
-<img src="https://i.imgur.com/NqfkzeB.png"
-alt="size-d_chatoutput_schematic.png" />
+<img src="https://i.imgur.com/NqfkzeB.png" alt="size-d_chatoutput_schematic.png" />
 </figure>
 
 1.  schematic name
