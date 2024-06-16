@@ -133,7 +133,7 @@ your selection.
 ## Analyzing a selection
 
 <figure>
-<img src="https://i.imgur.com/O0HHzyW.png" alt="size_chatoutput.png" />
+<img src="https://i.imgur.com/O0HHzyW.png" alt="size-d_chatoutput.png" />
 </figure>
 
 1.  selection-type
