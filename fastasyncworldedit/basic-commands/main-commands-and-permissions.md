@@ -23,9 +23,9 @@ See also:
 * [Nature](nature.md)
 * [Navigation](navigation.md)
 * [Selection](selection.md)
-* [Masks](../masks/masks.md)
-* [Patterns](../patterns/patterns.md)
-* [Transforms](../transforms/transforms.md)
+* [Masks](../masks.md)
+* [Patterns](../patterns.md)
+* [Transforms](../transforms.md)
 <!--
 ## Content
 
