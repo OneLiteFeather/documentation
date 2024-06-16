@@ -15,11 +15,11 @@ FAWE has brush tools that allow you to build and draw from far away. When you en
 
 ### Changing brush settings
 
-* [`/mat <pattern>`](../patterns/patterns.md) - Patterns decide what is placed
-* [`/mask <mask>`](../masks/masks.md#_masks) - A destination mask decides if a block should be changed
-* [`/smask <mask>`](../masks/masks.md#_smask_masks_) - A source mask changes if a block can be placed
-* [`/targetmask <mask>`](../masks/masks.md) - What blocks are targeted by the brush. The default mask is `!air`
-* [`/transform <transform>`](../transforms/transforms.md) - A transform changes where the blocks are placed
+* [`/mat <pattern>`](../patterns.md) - Patterns decide what is placed
+* [`/mask <mask>`](../masks.md#masks) - A destination mask decides if a block should be changed
+* [`/smask <mask>`](../masks.md) - A source mask changes if a block can be placed (Currently not documented)
+* [`/targetmask <mask>`](../masks.md) - What blocks are targeted by the brush. The default mask is `!air`
+* [`/transform <transform>`](../transforms.md) - A transform changes where the blocks are placed
 * `/range <range>` - The distance you can use the brush at
 * `/size <size>` - The size of the brush (e.g. radius 10 sphere)
 * `/none` - Unbind tool  +
@@ -61,9 +61,10 @@ With FAWE you can visualize how the brush will change blocks:
 * 1 = Single point
 * 2 = All block changes are visualized
 
-![Video](https://www.youtube.com/watch?v=xX-MTSLoNXw)
+[Visualisation Video](https://www.youtube.com/watch?v=xX-MTSLoNXw)
+
 ![image](https://i.imgur.com/J2g6Qfn.jpeg)
 
 ### Brushes:
 
-[For a list of brushes, visit the command page.](main-commands-and-permissions.md#_brush_commands)
+[For a list of brushes, visit the command page.](main-commands-and-permissions.md#brush-commands)
