@@ -1,5 +1,5 @@
 **Info:** For command related permissions: [see
-here](#../basic-commands/main-commands-and-permissions.adoc)
+here](basic-commands/main-commands-and-permissions.md)
 
 # Admin permissions
 
